@@ -1,6 +1,6 @@
 {
   "name": "sianx-picture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "静: 静态资源仓库",
   "main": "index.js",
   "scripts": {
